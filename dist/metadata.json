@@ -1,0 +1,25 @@
+{
+    "author": {
+        "name": "Lux_ub001",
+        "id": "261972932933320708"
+    },
+    "service": "TuMangaOnline",
+    "description": {
+        "en": "Website for reading manga in spanish.",
+        "es": "Sitio web para leer manga en español."
+    },
+    "url": [
+        "lectortmo.com",
+        "tmocommunity.com",
+        "lectormanga.com"
+    ],
+    "version": "1.0.0",
+    "logo": "https://i.imgur.com/3WGmZXh.png",
+    "thumbnail": "https://i.imgur.com/RJDBvwg.png",
+    "color": "#7693d3",
+    "category": "anime",
+    "tags": [
+        "anime",
+        "manga"
+    ]
+}
