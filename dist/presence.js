@@ -1,5 +1,5 @@
 var presence = new Presence({
-    clientId: "791789304196235275"
+    clientId: "ClientID"
 });
 var browsingStamp = Math.floor(Date.now() / 1000);
 var user = document.querySelector("#app > section > header > section > div > div > div > h1 > a");
